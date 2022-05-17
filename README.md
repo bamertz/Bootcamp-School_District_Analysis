@@ -23,7 +23,7 @@ There is a bulleted list that addresses how each of the seven school district me
 How is the district summary affected?
 
 * Old District Summary:
-![Old District Summary](Analysis/OldDistrictSummary.png)
+
 * New District Summary:
 ![New District Summary](Analysis/NewDistrictSummary.png)
 
