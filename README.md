@@ -76,6 +76,7 @@ Replacing the Thomas High Schools ninth-grade scores with "NaN" does not affect 
 ![Old Scores By Size](Analysis/OldScoresBySize.png)
 
 * New Scores by School Size:
+
 ![New Scores By Size](Analysis/NewScoreBySize.png)
 
 Scores By School Type
