@@ -37,35 +37,34 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 How does replacing the ninth-grade scores affect the following:
 Math Scores By Grade
-* Old Math Scores by Grade:   * New Math Scores by Grade:
+* Old Math Scores vs New Math Scores By Grade
 
 ![Old Math Per School](Analysis/OldMathPerSchool.png) ![New Math Per School](Analysis/NewMathPerSchool.png)
 
-
-
 Reading Scores By Grade
-* Old Reading Scores by Grade:
-![Old Reading Per School](Analysis/OldReadingPerSchool.png)
-* New Reading Scores by Grade:
-![New Reading Per School](Analysis/NewReadingPerSchool.png)
+* Old Reading Scores vs New Reading Scores by Grade
+
+![Old Reading Per School](Analysis/OldReadingPerSchool.png) ![New Reading Per School](Analysis/NewReadingPerSchool.png)
+
+
 
 Scores By School Spending
 * Old Scores by School Spending:
 ![Old Scores By Spending](OldScoresBySpending.png)
 * New Scores by School Spending:
-![New Scores By Spending](NewScoresBySpending.png)
+![New Scores By Spending](NewScoreBySpend.png)
 
 Scores By School Size
 * Old Scores By School Size:
 ![Old Scores By Size](OldScoresBySize.png)
 * New Scores by School Size:
-![New Scores By Size](NewScoresBySize.png)
+![New Scores By Size](NewScoreBySize.png)
 
 Scores By School Type
 * Old Scores By School Type:
 ![Old Scores By Type](OldScoresByType.png)
 * New Scores by School Type:
-![New Scores By Type](NewScoresByType.png)
+![New Scores By Type](NewScoreByType.png)
 
 ### Summary
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt). test
