@@ -37,10 +37,11 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 How does replacing the ninth-grade scores affect the following:
 Math Scores By Grade
-* Old Math Scores by Grade:
-![Old Math Per School](Analysis/OldMathPerSchool.png)
-* New Math Scores by Grade:
-![New Math Per School](Analysis/NewMathPerSchool.png)
+* Old Math Scores by Grade:   * New Math Scores by Grade:
+
+![Old Math Per School](Analysis/OldMathPerSchool.png) ![New Math Per School](Analysis/NewMathPerSchool.png)
+
+
 
 Reading Scores By Grade
 * Old Reading Scores by Grade:
