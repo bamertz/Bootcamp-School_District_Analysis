@@ -23,44 +23,48 @@ There is a bulleted list that addresses how each of the seven school district me
 How is the district summary affected?
 
 * Old District Summary:
-
+![Old District Summary](Analysis/OldDistrictSummary.png)
 * New District Summary:
-
+![New District Summary](Analysis/NewDistrictSummary.png)
 
 How is the school summary affected?
-
 * Old School Summary:
-
+![Old School Summary](Analysis/OldSchoolSummary.png)
 * New School Summary:
-
+![New School Summary](Analysis/NewSchoolSummary.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-
 How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+Math Scores By Grade
 * Old Math Scores by Grade:
-
+![Old Math Per School](Analysis/OldMathPerSchool.png)
 * New Math Scores by Grade:
+![New Math Per School](Analysis/NewMathPerSchool.png)
 
-Scores by school spending
+Reading Scores By Grade
+* Old Reading Scores by Grade:
+![Old Reading Per School](Analysis/OldReadingPerSchool.png)
+* New Reading Scores by Grade:
+![New Reading Per School](Analysis/NewReadingPerSchool.png)
 
+Scores By School Spending
 * Old Scores by School Spending:
-
+![Old Scores By Spending](OldScoresBySpending.png)
 * New Scores by School Spending:
+![New Scores By Spending](NewScoresBySpending.png)
 
-Scores by school size
-
+Scores By School Size
 * Old Scores By School Size:
-
+![Old Scores By Size](OldScoresBySize.png)
 * New Scores by School Size:
+![New Scores By Size](NewScoresBySize.png)
 
-Scores by school type
-
+Scores By School Type
 * Old Scores By School Type:
-
+![Old Scores By Type](OldScoresByType.png)
 * New Scores by School Type:
-
+![New Scores By Type](NewScoresByType.png)
 
 ### Summary
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
