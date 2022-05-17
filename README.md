@@ -31,6 +31,8 @@ How is the school summary affected?
 * Old School Summary:
 ![Old School Summary](Analysis/OldSchoolSummary.png)
 * New School Summary:
+![New School Summary](Analysis/NewSchoolSummary.png)
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
