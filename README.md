@@ -52,31 +52,31 @@ Scores By School Spending
 
 * Old Scores by School Spending:
 
-![Old Scores By Spending](OldScoresBySpending.png)
+![Old Scores By Spending](Analysis/OldScoresBySpending.png)
 
 * New Scores by School Spending:
 
-![New Scores By Spending](NewScoreBySpend.png)
+![New Scores By Spending](Analysis/NewScoreBySpend.png)
 
 Scores By School Size
 
 * Old Scores By School Size:
 
-![Old Scores By Size](OldScoresBySize.png)
+![Old Scores By Size](Analysis/OldScoresBySize.png)
 
 * New Scores by School Size:
 
-![New Scores By Size](NewScoreBySize.png)
+![New Scores By Size](Analysis/NewScoreBySize.png)
 
 Scores By School Type
 
 * Old Scores By School Type:
 
-![Old Scores By Type](OldScoresByType.png)
+![Old Scores By Type](Analysis/OldScoresByType.png)
 
 * New Scores by School Type:
 
-![New Scores By Type](NewScoreByType.png)
+![New Scores By Type](Analysis/NewScoreByType.png)
 
 
 ### Summary
