@@ -49,22 +49,35 @@ Reading Scores By Grade
 
 
 Scores By School Spending
+
 * Old Scores by School Spending:
+
 ![Old Scores By Spending](OldScoresBySpending.png)
+
 * New Scores by School Spending:
+
 ![New Scores By Spending](NewScoreBySpend.png)
 
 Scores By School Size
+
 * Old Scores By School Size:
+
 ![Old Scores By Size](OldScoresBySize.png)
+
 * New Scores by School Size:
+
 ![New Scores By Size](NewScoreBySize.png)
 
 Scores By School Type
+
 * Old Scores By School Type:
+
 ![Old Scores By Type](OldScoresByType.png)
+
 * New Scores by School Type:
+
 ![New Scores By Type](NewScoreByType.png)
+
 
 ### Summary
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
