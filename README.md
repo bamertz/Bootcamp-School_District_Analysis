@@ -46,9 +46,11 @@ Bottom 5 Performing Schools
 Replacing the Thomas High Schools ninth-grade scores with "NaN" does not affect any other schools scores or even Thomas High Schools 10th-12th grade scores.
 
 * Old Math Scores vs New Math Scores By Grade
+
 ![Old Math Per School](Analysis/OldMathPerSchool.png) ![New Math Per School](Analysis/NewMathPerSchool.png)
 
 * Old Reading Scores vs New Reading Scores by Grade
+
 ![Old Reading Per School](Analysis/OldReadingPerSchool.png) ![New Reading Per School](Analysis/NewReadingPerSchool.png)
 
 Replacing the Thomas High Schools ninth-grade scores with "NaN" does not affect "Scores by School Spending", the "Scores by School Size", or the "Scores by School Type" because the student population does not increase/decrease. The scores do affect the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing. However, the change is negligible given the current formatting of the table.
