@@ -67,4 +67,4 @@ Scores By School Type
 ![New Scores By Type](NewScoresByType.png)
 
 ### Summary
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt). test
