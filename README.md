@@ -38,9 +38,10 @@ The results shown below address how each of the seven school district metrics we
 
 Top 5 Performing Schools
 ![Old Top 5 Schools](Analysis/OldTop5Schools.png)
-
+![New Top 5 Schools](Analysis/NewTop5Schools.png)
 Bottom 5 Performing Schools
 ![Old Bottom 5 Schools](Analysis/OldBottom5Schools.png)
+![New Bottom 5 Schools](Analysis/NewTop5Schools.png)
 
 
 Replacing the Thomas High Schools ninth-grade scores with "NaN" does not affect any other schools scores or even Thomas High Schools 10th-12th grade scores.
