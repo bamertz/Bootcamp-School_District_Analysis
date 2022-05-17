@@ -38,6 +38,8 @@ The results shown below address how each of the seven school district metrics we
 
 ![New School Summary](Analysis/NewSchoolSummary1.png)
 
+Replacing the Thomas High Schools ninth-grade scores with "NaN", effectively lowers Thomas High Schools Overall Passing Percentage but does not lower it enough to move them from the 2nd ranked school. As stated above in the "School Summary" section, Thomas High Schools Overall Passing Percentage drops from 90.94% to 90.63%.
+
 * Top 5 Performing Schools
 
 ![Old Top 5 Schools](Analysis/OldTop5Schools1.png)
@@ -46,7 +48,7 @@ The results shown below address how each of the seven school district metrics we
 * Bottom 5 Performing Schools
 
 ![Old Bottom 5 Schools](Analysis/OldBottom5Schools1.png)
-![New Bottom 5 Schools](Analysis/NewTop5Schools.png)
+![New Bottom 5 Schools](Analysis/NewBottom5Schools.png)
 
 
 Replacing the Thomas High Schools ninth-grade scores with "NaN" does not affect any other schools scores or even Thomas High Schools 10th-12th grade scores.
@@ -88,4 +90,10 @@ Scores By School Type
 
 
 ### Summary
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt). tst
+In short, dropping the Thomas High School ninth-grade scores from the entire analysis resulted in the following:
+
+1. The districts percent overall passing dropped from 65.2% to 64.9%.
+2. The average math score fell from 83.41 to 83.35 while the average passing math percentage decreased from 93.27% to 93.18%.
+3. The average reading score went up from 83.84 to 83.89 while the average passing reading percentage decreased from 97.30% to 97.01% 
+4. The overall passing percentage for Thomas High School went from 90.94% down to 90.63%. 
+
